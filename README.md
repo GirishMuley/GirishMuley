@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif"/>
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)]
 <h1 align="center">Hi 👋, I'm Girish Muley</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
